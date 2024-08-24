@@ -1,5 +1,5 @@
 import java.util.*;
-class Example01{
+class Example{
 	public static void main(String args[]){
 		Scanner input=new Scanner(System.in);
 		System.out.println("===============================================================================================================================================");
